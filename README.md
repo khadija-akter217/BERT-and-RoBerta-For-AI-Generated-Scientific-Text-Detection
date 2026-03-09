@@ -1,0 +1,1 @@
+The project implemented a comparative analysis between two transformer-based models, BERT and RoBERTa. After finetuning them using scientific research text, we achieved good accuracy: BERT at 96% and RoBERTa at 93%. The data reveals that RoBERTa is excellent at identifying AI patterns, while BERT is more balanced in identifying scientific text based on sentence relationships.
